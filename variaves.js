@@ -32,7 +32,7 @@ const operacaoN = 'a' * meuNumero
 console.log(operacaoN)
 
 // concatenação
-const novaOperacao = "a" + meuNumero
+const novaOperacao = "a" + meuNumero;
 console.log(novaOperacao)
 
 // string (texto)
